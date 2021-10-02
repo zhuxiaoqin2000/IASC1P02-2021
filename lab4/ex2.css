@@ -1,0 +1,55 @@
+body{
+background-color:black;
+}
+
+div{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top:10%;
+  margin-bottom: 20%;
+
+  background-color: white;
+  border:solid;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+
+p.para1{
+  color:black;
+  border: dotted;
+  padding-top:200px;
+  padding-bottom: 20px;
+  text-align:center;
+
+}
+p.para2{
+  color:green;
+  text-align: center;
+  font-size: 50%;
+}
+
+p.para3{
+  color:orange;
+  font-size: 200%;
+}
+
+sup {
+    padding-bottom: 10px;
+    color:red;
+    font-size: 100%;
+
+}
+p.para4{
+  padding-top: 100px;
+  padding-bottom: 300px;
+  text-align: right;
+  font-size: 30%;
+  font-weight: lighter;
+
+}
+span{
+  color:yellow;
+  background-color: yellow;
+}
