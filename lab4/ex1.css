@@ -1,0 +1,47 @@
+body{
+background-color:black;
+
+}
+
+div{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top:10%;
+  margin-bottom: 20%;
+
+  background-color: blue;
+  border:solid;
+  padding-left: 0;
+  padding-bottom: 0;
+  padding-top: 10px;
+  padding-right: 10px;
+
+}
+
+.inner2{
+  border:dashed;
+  border-color: white;
+
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-right: 785px;
+
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+
+
+}
+p{
+  color:red;
+  border:dashed;
+  border-color: green;
+
+}
+img{
+  height:160px;
+  width:256px;
+
+
+}
