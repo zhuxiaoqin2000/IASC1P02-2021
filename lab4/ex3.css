@@ -1,0 +1,47 @@
+body{
+background-color:black;
+}
+div{
+  background-color: white;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top:150px;
+  margin-bottom: 150px;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+  padding-right: 2px;
+
+}
+.inner{
+  background-color: green;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom:0;
+
+}
+.first{
+  background-color: green;
+  border-style:dotted;
+  border-width:thick;
+  margin-top: 0;
+  padding-bottom: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 1%;
+}
+.para1{
+  color:red;
+}
+.para2{
+  font-weight: 100;
+}
+.para3{
+  color:purple;
+  text-align: left;
+}
