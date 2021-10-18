@@ -1,0 +1,53 @@
+.text_color{
+  color:red;
+}
+
+.text_size{
+  font-size: 150%;
+}
+
+.text_font{
+  font-family:fantasy;
+}
+
+.text_case{
+  text-transform:uppercase;
+}
+
+.box{
+    margin-left: 10%;
+    margin-right: 300px;
+    margin-top:5%;
+    margin-bottom: 0;
+
+    background-color: white;
+    border:solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+
+}
+#one{
+  position: relative;
+  margin-right: 1535px;
+
+}
+#two{
+  position: absolute;
+  bottom: auto;
+}
+#three{
+  position:fixed;
+  bottom: 20px;
+  left: 5px;
+  margin-right: 300px;
+}
+
+h1,h2{
+  color:red;
+}
+
+div.box2 p{
+  color:blue;
+}
