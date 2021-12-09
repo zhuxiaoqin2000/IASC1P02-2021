@@ -1,0 +1,18 @@
+.outer{
+  width:1300px;
+  color:brown;
+  height:1500px;
+  background-color:FF9900;
+  margin-left:300px;
+  text-align:left;
+  border:none;
+
+
+  margin-top: 0px;
+}
+.picture{
+  text-align:center;
+}
+.p1{
+  width:470px;
+}
